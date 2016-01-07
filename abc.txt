@@ -1,11 +1,5 @@
 vulh
-<<<<<<< HEAD
 sdfsdfasdf
 sfds
 sf
-=======
-sdfsdf
-sdfs
-sfgdfg
->>>>>>> 87869723401f23216298329dc34266f40d237166
 abc
